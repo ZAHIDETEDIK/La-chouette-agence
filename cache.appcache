@@ -4,7 +4,7 @@
   "icons": [
     {
       "src": "/img/logo.webp",
-      "type": "image/webp",
+      "type": "image/webp"
     },
     {
       "src": "/img/la-chouette-agence-banniere.webp",
