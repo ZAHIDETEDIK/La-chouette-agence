@@ -1,7 +1,6 @@
 {
   "short_name": "chouette agence",
   "name": "chouette agence",
-  "background_color": "#000000",
   "icons": [
     {
       "src": "/img/logo.webp",
