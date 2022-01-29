@@ -199,5 +199,5 @@ $(document).ready(function () {
 }).resize(function () {
     setFillScreenBlocHeight()
 }), $(function () {
-    $('[data-toggle="tooltip"]').tooltip()
+    jQuery('[data-toggle="tooltip"]').tooltip()
 });
