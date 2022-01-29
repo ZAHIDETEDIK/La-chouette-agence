@@ -897,6 +897,7 @@ footer
     .b-parallax {
         background-attachment: scroll;
     }
+    
 }
 
 @media only screen and (min-width: 1024px) and (max-width: 1366px) and (-webkit-min-device-pixel-ratio: 1.5) {
@@ -950,6 +951,7 @@ footer
         padding-left: 10px!important;
         padding-right: 10px!important;
     }
+    
     .b-parallax {
         background-attachment: scroll;
     }
